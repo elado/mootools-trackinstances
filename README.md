@@ -1,7 +1,7 @@
 MooTools TrackInstances Class Mutator
 =====================================
 
-Create an **instances** array property for a class, to contain all of its instances. The array can be used to alter all instances at once, for example -
+Creates an **instances** array property for a class, to contain all of its instances. The array can be used to alter all instances at once, for example -
 
 * A widget class that its instances need to be repositioned upon a window resize
 * Stop all music players at once
