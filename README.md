@@ -20,7 +20,7 @@ Just add **TrackInstances:true** to your class definition, **after** the initial
 		TrackInstances:true,
 
 		recalcPosition:function () {
-			// something that recalculates position or any other task that should happen on all instances
+			// something that recalculates position or any other task that should be applied on an instance
 		}
 	});
 
