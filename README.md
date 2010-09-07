@@ -36,3 +36,8 @@ Just add **TrackInstances:true** to your class definition, **after** the initial
 			instance.recalcPosition();
 		});
 	});
+
+
+Full post: http://devign.me/mootools-track-class-instances-with-the-trackinstances-mutator/
+
+Elad Ossadon's Blog: http://devign.me/
